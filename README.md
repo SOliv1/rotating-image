@@ -5,3 +5,5 @@
 3) We used animation: spin 1s infinite linear
 4) Followed by the keyframes property 
 to spin and rotate from 0 to 360 degrees nonstop
+
+[![Jekyll site CI](https://github.com/SOliv1/rotating-image/actions/workflows/jekyll.yml/badge.svg)](https://github.com/SOliv1/rotating-image/actions/workflows/jekyll.yml)
